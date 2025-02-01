@@ -4,7 +4,7 @@
 
 This is a rough list of writers or specific works not yet featured on this site, that are on my radar for whatever reason and I intend to get to later. No doubt it will grow faster than I can keep up with it.
 
-The classic Chinese novels pre-date the core focus of this site on contemporary <a href="/about#sinophonia" class="internal-url"><span class="italic-en">sinophonia</span></a> &mdash; they're here as a reminder to read them at some point...
+The classic Chinese novels pre-date the core focus of this site on contemporary <a href="/about#sinophonia" class="internal-url"><span class="italic-en">sinophonia</span></a> &mdash; they're here as a reminder to myself to read them at some point...
 
 </section>
 
@@ -28,6 +28,7 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
         Chen Hsueh <span class="person-zh">陳雪</span><br><span class="title-zh">橋上的孩子</span><br>
         <span class="title-zh">你不能再死一次</span>
     </li>
+    <li>Chen Ruoxi <span class="person-zh">陳若曦</span></li>
     <li>Chen Yingzhen <span class="person-zh">陳映真</span><br><span class="title-zh">將軍族</span>
     </li>
     <li>Chun Sue <span class="person-zh">春樹</span><br><span class="title-zh">北京娃娃</span>
@@ -85,6 +86,11 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
     <li>Murong Xuecun <span class="person-zh">慕容雪村</span></li>
 </ul>
 
+### O
+<ul class="list">
+    <li>Ouyang Tzu <span class="person-zh">歐陽子</span></li>
+</ul>
+
 ### P
 <ul class="list">
     <li>Pai Hsien-yung <span class="person-zh">白先勇</span><br><span class="title-zh">孽子</span>
@@ -117,6 +123,7 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
     <li>Wang Meng <span class="person-zh">王蒙</span><br><span class="title-zh">蝴蝶</span><br>
         <span class="title-zh">布禮</span>
     </li>
+    <li>Wang Wen-hsing <span class="person-zh">王文興</span></li>
     <li>Wang Xin <span class="person-zh">王欣</span></li>
     <li>Wang Zengqi <span class="person-zh">汪曾褀</span></li>
     <li>Wu Cheng'en <span class="person-zh">吳承恩</span><br><span class="title-zh">西遊記</span></li>
@@ -126,6 +133,7 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
 ### X
 <ul class="list">
     <li>Xi Xi <span class="person-zh">西西</span></li>
+    <li>Xia Tsi-an <span class="person-zh">夏濟安</span></li>
     <li>Xu Jilin <span class="person-zh">許記霖</span><br><span class="title-zh">何種文明？中國崛起的再思考</span>
     </li>
     <li>Xu Zhangrun <span class="person-zh">許章潤</span><br><span class="title-zh">國家理性與優良政體</span></li>
@@ -139,6 +147,7 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
         Yi Xianfeng <span class="person-zh">伊險峰</span> & Yang Ying <span class="person-zh">楊櫻</span><br><span
             class="title-zh">張醫生與王醫生</span>
     </li>
+    <li>Yip Wai-lim <span class="person-zh">葉維廉</span><br><span class="title-zh">中國現代小説的風貌</span></li>
     <li>Yu Hua <span class="person-zh">余華</span><br><span class="title-zh">文城</span><br><span class="title-zh">兄弟</span>
     </li>
 </ul>
