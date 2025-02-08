@@ -5,6 +5,10 @@ This is a log to track significant <a href="/about#design" class="internal-url">
 
 The full <a href="https://github.com/essteer/sinophonia" class="external-url">commit history</a> is on the site repository.
 
+## February 2025
+
+- Added a `robots.txt` using the ai.robots.txt template at `https://github.com/ai-robots-txt/ai.robots.txt`, to block AI crawlers.
+
 ## October 2024
 
 - Migrated the site domain from `https://www.xuan-zang.com` to `https://sinophonia.com`. Set the former domain to redirect until its expiry in 2025.
