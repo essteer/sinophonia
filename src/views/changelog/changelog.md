@@ -7,6 +7,7 @@ The full <a href="https://github.com/essteer/sinophonia" class="external-url">co
 
 ## February 2025
 
+- Made content edits to Voice sections and removed sample episode lists.
 - Added a `robots.txt` file using the ai.robots.txt template at `https://github.com/ai-robots-txt/ai.robots.txt`, to block AI crawlers.
 
 ## October 2024
