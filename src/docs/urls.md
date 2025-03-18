@@ -30,6 +30,7 @@ A list of external URLs referenced throughout the site.
 | INK | Liu Dan bio | http://www.asiaartcenter.org/asia/portfolio/%E5%8A%89%E4%B8%B9/ |
 | INK | National Taiwan University - 臺灣現代主義小說 | https://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S106 |
 | INK | New York Times - China’s Olympic Crossroads: Bird’s Nest Designer Ai Weiwei on Beijing’s ‘Pretend Smile’ | https://archive.nytimes.com/beijing2008.blogs.nytimes.com/2008/08/04/chinas-olympic-crossroads-birds-nest-designer-ai-weiwei-on-beijings-pretend-smile/ |
+| INK | The Nobel Prize - Gao Xingjian Facts | https://www.nobelprize.org/prizes/literature/2000/gao/facts/ |
 | INK | Public Delivery - Ai Weiwei gives world his middle finger | https://publicdelivery.org/ai-weiwei-study-of-perspective/ |
 | INK | Resonate | https://www.resonatehk.com |
 | INK | Sea Breeze Books | https://www.seabreezebooks.com.sg/products/short-tongue-bilingual-edition |

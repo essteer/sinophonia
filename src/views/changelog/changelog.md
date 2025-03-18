@@ -5,6 +5,11 @@ This is a log to track significant <a href="/about#design" class="internal-url">
 
 The full <a href="https://github.com/essteer/sinophonia" class="external-url">commit history</a> is on the site repository.
 
+## March 2025
+
+- Added an Ink entry for Gao Xingjian.
+- Amended entries in the Unseen reading list. 
+
 ## February 2025
 
 - Made content edits to Voice sections and removed sample episode lists.
