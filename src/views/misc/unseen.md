@@ -42,7 +42,7 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
 <ul class="list">
     <li>Gao Ertai <span class="person-zh">高爾泰</span><br><span class="title-zh">尋找家園</span>
     </li>
-    <li>Gao Xingjian <span class="person-zh">高行健</span><br><span class="title-zh">靈山</span><br><span class="title-zh">一個人的聖經</span>
+    <li>Gao Xingjian <span class="person-zh">高行健</span><br><span class="title-zh">一個人的聖經</span>
     </li>
     <li>Ge Zhaoguang <span class="person-zh">葛兆光</span><br><span class="title-zh">何爲中國</span>
     </li>
@@ -63,9 +63,11 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
 ### L
 <ul class="list">
     <li>Lanling Xiaoxiao Sheng <span class="person-zh">蘭陵笑笑生</span><br><span class="title-zh">金瓶梅</span></li>
+    <li>Li Juan <span class="person-zh">李娟</span><br><span class="title-zh">我的阿勒泰</span>
     <li>Liao Yiwu <span class="person-zh">廖亦武</span></li>
     <li>Liu Yichang <span class="person-zh">劉以鬯</span><br><span class="title-zh">對倒</span>
     </li>
+    <li>Liu Zhenyun <span class="person-zh">劉震雲</span><br><span class="title-zh">一地鷄毛</span>
     <li>Luo Guanzhong <span class="person-zh">羅貫中</span><br><span class="title-zh">三國演義</span></li>
     <li>Luo Yijun <span class="person-zh">駱以軍</span></li>
 </ul>
@@ -127,6 +129,7 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
     <li>Xi Xi <span class="person-zh">西西</span></li>
     <li>Xu Jilin <span class="person-zh">許記霖</span><br><span class="title-zh">何種文明？中國崛起的再思考</span>
     </li>
+    <li>Xu Zhangrun <span class="person-zh">許章潤</span><br><span class="title-zh">國家理性與優良政體</span></li>
 </ul>
 
 ### Y
