@@ -25,7 +25,10 @@ A list of external URLs referenced throughout the site.
 | INK | Frank Delaney's Re-Joyce podcast | https://blog.frankdelaney.com/re-joyce/ |
 | INK | Guggenheim Bilbao - Ai Weiwei, Dropping a Han Dynasty Urn, 1995 | https://www.guggenheim-bilbao.eus/en/learn/schools/teachers-guides/ai-weiwei-dropping-han-dynasty-urn-1995 |
 | INK | Hao Jingfang's Folding Beijing | https://web.archive.org/web/20160822161228/http://jessica-hjf.blog.163.com/blog/static/278128102015240444791/ |
+| INK | Ian Johnson | http://ian-johnson.com/ |
 | INK | LEAP | http://leapleapleap.com/ |
+| INK | Leiden University - Maghiel van Crevel | https://www.universiteitleiden.nl/en/staffmembers/maghiel-van-crevel |
+| INK | Leiden University Libraries - Unofficial Poetry of China | https://digitalcollections.universiteitleiden.nl/unpo |
 | INK | Liu Cixin's Three Body Problem criticism | https://yibaochina.com/?p=249669 |
 | INK | Liu Dan bio | http://www.asiaartcenter.org/asia/portfolio/%E5%8A%89%E4%B8%B9/ |
 | INK | National Taiwan University - 臺灣現代主義小說 | https://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S106 |
@@ -45,8 +48,10 @@ A list of external URLs referenced throughout the site.
 | INK | YouTube - 臺灣現代主義小説 07. 白先勇＜遊園驚夢＞（二） | https://www.youtube.com/watch?v=mpxSWqRcepc&list=PLCX-BLZ1hDpBj5-_xVy08yCRlnS1h379-&index=7 |
 | VOICE | Bumingbai podcast | https://www.bumingbai.net/ |
 | VOICE | Chiang Hsun's Mei De Chen Si podcast | https://open.firstory.me/user/cktxxrlw27ioo0898okcvd43b |
+| VOICE | Duke University Libraries - The Memory Project | https://idn.duke.edu/ark:/87924/r4qb9xm34 |
 | VOICE | Frank Delaney's Re-Joyce podcast | https://blog.frankdelaney.com/re-joyce/ |
 | VOICE | JustPod | https://justpodmedia.com/ |
+| VOICE | The Memory Project | https://chinesememoryproject.org/ |
 | VOICE | New York Times article on Gushi FM | https://www.nytimes.com/2019/05/12/world/asia/china-podcast-gushi-fm.html |
 | VOICE | Stochastic Volatility | https://www.stovol.club |
 | SOURCES | Anki | https://apps.ankiweb.net/ |
