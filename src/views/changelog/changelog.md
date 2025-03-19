@@ -7,7 +7,7 @@ The full <a href="https://github.com/essteer/sinophonia" class="external-url">co
 
 ## March 2025
 
-- Added an Ink entry for Gao Xingjian.
+- Added Ink entries for Gao Xingjian and Unofficial Poetry from China.
 - Amended entries in the Unseen reading list. 
 
 ## February 2025

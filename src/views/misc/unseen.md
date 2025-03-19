@@ -30,6 +30,8 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
     </li>
     <li>Chen Yingzhen <span class="person-zh">陳映真</span><br><span class="title-zh">將軍族</span>
     </li>
+    <li>Chun Sue <span class="person-zh">春樹</span><br><span class="title-zh">北京娃娃</span>
+    </li>
 </ul>
 
 ### F
