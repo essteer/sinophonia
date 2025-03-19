@@ -48,8 +48,10 @@ A list of external URLs referenced throughout the site.
 | INK | YouTube - 臺灣現代主義小説 07. 白先勇＜遊園驚夢＞（二） | https://www.youtube.com/watch?v=mpxSWqRcepc&list=PLCX-BLZ1hDpBj5-_xVy08yCRlnS1h379-&index=7 |
 | VOICE | Bumingbai podcast | https://www.bumingbai.net/ |
 | VOICE | Chiang Hsun's Mei De Chen Si podcast | https://open.firstory.me/user/cktxxrlw27ioo0898okcvd43b |
+| VOICE | Duke University Libraries - The Memory Project | https://idn.duke.edu/ark:/87924/r4qb9xm34 |
 | VOICE | Frank Delaney's Re-Joyce podcast | https://blog.frankdelaney.com/re-joyce/ |
 | VOICE | JustPod | https://justpodmedia.com/ |
+| VOICE | The Memory Project | https://chinesememoryproject.org/ |
 | VOICE | New York Times article on Gushi FM | https://www.nytimes.com/2019/05/12/world/asia/china-podcast-gushi-fm.html |
 | VOICE | Stochastic Volatility | https://www.stovol.club |
 | SOURCES | Anki | https://apps.ankiweb.net/ |
