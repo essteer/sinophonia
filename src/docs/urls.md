@@ -27,6 +27,8 @@ A list of external URLs referenced throughout the site.
 | INK | Hao Jingfang's Folding Beijing | https://web.archive.org/web/20160822161228/http://jessica-hjf.blog.163.com/blog/static/278128102015240444791/ |
 | INK | Ian Johnson | http://ian-johnson.com/ |
 | INK | LEAP | http://leapleapleap.com/ |
+| INK | Leiden University - Maghiel van Crevel | https://www.universiteitleiden.nl/en/staffmembers/maghiel-van-crevel |
+| INK | Leiden University Libraries - Unofficial Poetry of China | https://digitalcollections.universiteitleiden.nl/unpo |
 | INK | Liu Cixin's Three Body Problem criticism | https://yibaochina.com/?p=249669 |
 | INK | Liu Dan bio | http://www.asiaartcenter.org/asia/portfolio/%E5%8A%89%E4%B8%B9/ |
 | INK | National Taiwan University - 臺灣現代主義小說 | https://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/101S106 |
