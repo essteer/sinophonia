@@ -25,6 +25,7 @@ A list of external URLs referenced throughout the site.
 | INK | Frank Delaney's Re-Joyce podcast | https://blog.frankdelaney.com/re-joyce/ |
 | INK | Guggenheim Bilbao - Ai Weiwei, Dropping a Han Dynasty Urn, 1995 | https://www.guggenheim-bilbao.eus/en/learn/schools/teachers-guides/ai-weiwei-dropping-han-dynasty-urn-1995 |
 | INK | Hao Jingfang's Folding Beijing | https://web.archive.org/web/20160822161228/http://jessica-hjf.blog.163.com/blog/static/278128102015240444791/ |
+| INK | Ian Johnson | http://ian-johnson.com/ |
 | INK | LEAP | http://leapleapleap.com/ |
 | INK | Liu Cixin's Three Body Problem criticism | https://yibaochina.com/?p=249669 |
 | INK | Liu Dan bio | http://www.asiaartcenter.org/asia/portfolio/%E5%8A%89%E4%B8%B9/ |
