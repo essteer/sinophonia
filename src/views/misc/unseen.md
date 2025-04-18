@@ -46,8 +46,6 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
     </li>
     <li>Gao Xingjian <span class="person-zh">高行健</span><br><span class="title-zh">一個人的聖經</span>
     </li>
-    <li>Ge Zhaoguang <span class="person-zh">葛兆光</span><br><span class="title-zh">何爲中國</span>
-    </li>
     <li>Gu Cheng <span class="person-zh">顧城</span></li>
 </ul>
 
