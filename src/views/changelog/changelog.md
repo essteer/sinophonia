@@ -5,6 +5,10 @@ This is a log to track significant <a href="/about#design" class="internal-url">
 
 The full <a href="https://github.com/essteer/sinophonia" class="external-url">commit history</a> is on the site repository.
 
+## April 2025
+
+- Added Ink entry for Ge Zhaoguang.
+
 ## March 2025
 
 - Added Ink entries for Gao Xingjian and Unofficial Poetry from China.
