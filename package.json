@@ -22,7 +22,7 @@
     "ejs": "^3.1.9",
     "ejs-mate": "^4.0.0",
     "express": "^4.21.2",
-    "express-rate-limit": "^7.5.0",
+    "express-rate-limit": "^8.0.1",
     "marked": "^12.0.2"
   },
   "devDependencies": {
