@@ -9,7 +9,16 @@ const rateLimit = require("express-rate-limit");
 const fs = require("fs");
 const path = require("path");
 // Parse front matter from Markdown files
-const { marked } = require("marked");
+let marked;
+(async () => { // Immediately Invoked Async Function Expression (IIAFE)
+  try {
+    const { marked: importedMarked } = await import('marked');
+    marked = importedMarked;
+  } catch (error) {
+    console.error("Failed to load 'marked' ES module:", error);
+    process.exit(1);
+  }
+})();
 // Get recursive file walk function
 const gatherPaths = require("./public/javascripts/recursivePathWalk");
 
@@ -104,6 +113,14 @@ app.get("/changelog", (req, res) => {
   );
 
   fs.readFile(markdownPath, "utf8", (err, data) => {
+    if (err) {
+      console.error("Error reading changelog markdown: ", err);
+      return res.status(500).send("Error loading changelog content.");
+    }
+    if (!marked) {
+      console.error("Marked markdown parser is not ready yet.");
+      return res.status(503).send("Server is not ready to parse markdown.");
+    }
     const htmlContent = marked(data);
     res.render("layouts/boilerplate", { body: htmlContent });
   });
@@ -126,6 +143,10 @@ app.get("/:filename", (req, res) => {
           res.status(404);
           res.render("utils/status404");
         } else {
+          if (!marked) {
+            console.error("Marked markdown parser is not ready yet.");
+            return res.status(503).send("Server is not ready to parse markdown.");
+          }
           const htmlContent = marked(data);
           res.render("layouts/boilerplate", { body: htmlContent });
         }
