@@ -1,6 +1,6 @@
 <article>
 <section>
-<h1>UNSEEN&nbsp;<span class="chinese-heading">未睇</span></h1>
+<h1>BACKLOG&nbsp;<span class="chinese-heading">未睇</span></h1>
 
 This is a rough list of writers or specific works not yet featured on this site, that are on my radar for whatever reason and I intend to get to later. No doubt it will grow faster than I can keep up with it.
 
@@ -63,7 +63,6 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
 ### L
 <ul class="list">
     <li>Lanling Xiaoxiao Sheng <span class="person-zh">蘭陵笑笑生</span><br><span class="title-zh">金瓶梅</span></li>
-    <li>Li Juan <span class="person-zh">李娟</span><br><span class="title-zh">我的阿勒泰</span>
     <li>Liao Yiwu <span class="person-zh">廖亦武</span></li>
     <li>Liu Yichang <span class="person-zh">劉以鬯</span><br><span class="title-zh">對倒</span>
     </li>
