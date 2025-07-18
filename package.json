@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/essteer/sinophonia#readme",
   "dependencies": {
-    "cloudinary": "^1.35.0",
+    "cloudinary": "^2.7.0",
     "dotenv": "^17.2.0",
     "ejs": "^3.1.9",
     "ejs-mate": "^4.0.0",
