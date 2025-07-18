@@ -9,6 +9,7 @@ The full <a href="https://github.com/essteer/sinophonia" class="external-url">co
 
 - Upgraded to Node v22.x and updated packages.
 - Renamed the Unseen page to Backlog and made content updates.
+- Added analytics to track site visit figures.
 
 ## April 2025
 
