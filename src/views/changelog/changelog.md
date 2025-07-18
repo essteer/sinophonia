@@ -5,6 +5,10 @@ This is a log to track significant <a href="/about#design" class="internal-url">
 
 The full <a href="https://github.com/essteer/sinophonia" class="external-url">commit history</a> is on the site repository.
 
+## July 2025
+
+- Upgraded to Node v22.x and updated packages.
+
 ## April 2025
 
 - Added Ink entry for Ge Zhaoguang.
