@@ -22,11 +22,11 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
 <ul class="list">
     <li>Cao Xueqin <span class="person-zh">曹雪芹</span><br><span class="title-zh">紅樓夢</span>
     </li>
-    <li>Chen Rou-Jin <span class="person-zh">陳柔縉</span><br><span class="title-zh">宮前町九十番地</span>
-    </li>
     <li>
         Chen Hsueh <span class="person-zh">陳雪</span><br><span class="title-zh">橋上的孩子</span><br>
         <span class="title-zh">你不能再死一次</span>
+    </li>
+    <li>Chen Rou-Jin <span class="person-zh">陳柔縉</span><br><span class="title-zh">宮前町九十番地</span>
     </li>
     <li>Chen Ruoxi <span class="person-zh">陳若曦</span></li>
     <li>Chen Yingzhen <span class="person-zh">陳映真</span><br><span class="title-zh">將軍族</span>
