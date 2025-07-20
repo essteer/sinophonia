@@ -61,6 +61,7 @@ A list of external URLs referenced throughout the site.
 | SOURCES | Gwern - Spaced Repetition for Efficient Learning | https://gwern.net/spaced-repetition |
 | SOURCES | Hacking Chinese | https://www.hackingchinese.com/ |
 | SOURCES | Haodoo | https://haodoo.net/ |
+| SOURCES | Haodoo | https://haodoo.org/ |
 | SOURCES | HiNative | https://hinative.com/ |
 | SOURCES | iTalki | https://www.italki.com/ |
 | SOURCES | KKBOX | https://www.kkbox.com/hk/tc/ |
