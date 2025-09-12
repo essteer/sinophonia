@@ -23,7 +23,7 @@
     "ejs-mate": "^4.0.0",
     "express": "^5.1.0",
     "express-rate-limit": "^8.0.1",
-    "marked": "^16.1.2"
+    "marked": "^16.2.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.3"
