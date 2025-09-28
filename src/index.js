@@ -127,21 +127,42 @@ app.get("/changelog", (req, res) => {
 });
 
 // Permitted Markdown pages exist in this directory
-const miscDirectory = path.join(__dirname, "views", "misc");
+const MISC_DIR = path.resolve(__dirname, "views", "misc");
 // Markdown to HTML rendering for entire pages
 app.get("/:filename", (req, res) => {
-  const filename = req.params.filename;
-  const markdownPath = path.join(miscDirectory, `${filename}.md`);
+  const { filename } = req.params;
 
-  fs.access(markdownPath, fs.constants.F_OK, (err) => {
+  const INVALID_PATH_RE = /[/\\]/;
+  const VALID_NAME_RE = /^\w[\w.-]*$/;
+  if (INVALID_PATH_RE.test(filename) || !VALID_NAME_RE.test(filename)) {
+    return res.status(400).render("utils/status400");
+  }
+
+  const candidatePath = path.join(MISC_DIR, `${filename}.md`);
+  const resolvedPath = path.resolve(candidatePath);
+  // Containment check - must remain in MISC_DIR
+  if (!resolvedPath.startsWith(MISC_DIR + path.sep)) {
+    console.warn(`Path-traversal attempt: ${filename} -> ${resolvedPath}`);
+    return res.status(403).render("utils/status403");
+  }
+  
+  fs.access(resolvedPath, fs.constants.R_OK, (err) => {
     if (err) {
-      res.status(404);
-      res.render("utils/status404");
+      if (err.code === "ENOENT") {
+        return res.status(404).render("utils/status404");
+      } 
+      if (err.code === "EACCES" || err.code === "EPERM") {
+        return res.status(403).render("utils/status403");
+      }
+      console.error(err);
+      return res.status(500).render("utils/status500");
+      
     } else {
-      fs.readFile(markdownPath, "utf8", (err, data) => {
+      fs.readFile(resolvedPath, "utf8", (err, data) => {
         if (err) {
-          res.status(404);
-          res.render("utils/status404");
+          console.error(err);
+          res.status(500).render("utils/status500");
+        
         } else {
           if (!marked) {
             console.error("Marked markdown parser is not ready yet.");
