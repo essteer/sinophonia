@@ -118,7 +118,7 @@ To optimise use of web fonts, practices have been adopted from [CSS Wizardy](htt
 
 Images are hosted on [Cloudinary](https://cloudinary.com/), and include artworks, photographs, official logos and so on.
 
-Attributions are explicit and I have sought permission from owners to use their images &mdash; many have kindly granted this permission, but if you are the author of content here that you would like to be removed or amended then contact me directly on [elliott@sinophonia.com](elliott@sinophonia.com).
+Attributions are explicit and I have sought permission from owners to use their images &mdash; many have kindly granted this permission, but if you are the author of content here that you would like to be removed or amended then contact me directly on [editor@sinophonia.com](editor@sinophonia.com).
 
 ### Vertical text
 
