@@ -43,8 +43,6 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
 
 ### G
 <ul class="list">
-    <li>Gao Ertai <span class="person-zh">高爾泰</span><br><span class="title-zh">尋找家園</span>
-    </li>
     <li>Gao Xingjian <span class="person-zh">高行健</span><br><span class="title-zh">一個人的聖經</span>
     </li>
     <li>Gu Cheng <span class="person-zh">顧城</span></li>
@@ -64,7 +62,6 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
 ### L
 <ul class="list">
     <li>Lanling Xiaoxiao Sheng <span class="person-zh">蘭陵笑笑生</span><br><span class="title-zh">金瓶梅</span></li>
-    <li>Liao Yiwu <span class="person-zh">廖亦武</span></li>
     <li>Liu Yichang <span class="person-zh">劉以鬯</span><br><span class="title-zh">對倒</span>
     </li>
     <li>Liu Zhenyun <span class="person-zh">劉震雲</span><br><span class="title-zh">一地鷄毛</span>
@@ -143,6 +140,7 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
 <ul class="list">
     <li>Yan Lianke <span class="person-zh">閻連科</span><br><span class="title-zh">日熄</span>
     </li>
+    <li>Yao Emei <span class="person-zh">姚鄂梅</span></li>
     <li>
         Yi Xianfeng <span class="person-zh">伊險峰</span> & Yang Ying <span class="person-zh">楊櫻</span><br><span
             class="title-zh">張醫生與王醫生</span>
@@ -154,6 +152,7 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
 
 ### Z
 <ul class="list">
+    <li>Zhai Yongming <span class="person-zh">翟永明</span></li>
     <li>Zhang Boshu <span class="person-zh">張博樹</span><br><span class="title-zh">經濟行爲與人</span>
     </li>
 </ul>

@@ -5,6 +5,12 @@ This is a log to track significant <a href="/about#design" class="internal-url">
 
 The full <a href="https://github.com/essteer/sinophonia" class="external-url">commit history</a> is on the site repository.
 
+## February 2026
+
+- Added Ink entry for <a href="/ink/#GaoErtai" class="internal-url">Gao Ertai</a>.
+- Updated entries for <a href="/ink/#EileenChang" class="internal-url">Eileen Chang</a> and <a href="/ink/#WangShuo" class="internal-url">Wang Shuo</a>.
+- Updated site license and email address.
+
 ## July 2025
 
 - Upgraded to Node v22.x and updated packages.
@@ -14,12 +20,12 @@ The full <a href="https://github.com/essteer/sinophonia" class="external-url">co
 
 ## April 2025
 
-- Added Ink entry for Ge Zhaoguang.
+- Added Ink entry for <a href="/ink/#GeZhaoguang" class="internal-url">Ge Zhaoguang</a>.
 
 ## March 2025
 
-- Added Ink entries for Gao Xingjian and Unofficial Poetry from China.
-- Added a Voice entry for The Memory Project.
+- Added Ink entries for <a href="/ink/#GaoXingjian" class="internal-url">Gao Xingjian</a> and <a href="/ink/#UnofficialPoetryFromChina" class="internal-url">Unofficial Poetry from China</a>.
+- Added a Voice entry for <a href="/voice/#MemoryProject" class="internal-url">The Memory Project</a>.
 - Edited the introductions for the Ink and Voice pages.
 - Amended entries in the Unseen reading list. 
 
