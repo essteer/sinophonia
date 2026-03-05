@@ -28,7 +28,7 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
     </li>
     <li>Chen Rou-Jin <span class="person-zh">陳柔縉</span><br><span class="title-zh">宮前町九十番地</span>
     </li>
-    <li>Chen Ruoxi <span class="person-zh">陳若曦</span></li>
+    <li>Chen Ruoxi <span class="person-zh">陳若曦</span><br><span class="title-zh">尹縣長</span></li>
     <li>Chen Yingzhen <span class="person-zh">陳映真</span><br><span class="title-zh">將軍族</span>
     </li>
     <li>Chun Sue <span class="person-zh">春樹</span><br><span class="title-zh">北京娃娃</span>
@@ -135,7 +135,7 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
     <li>Wang Meng <span class="person-zh">王蒙</span><br><span class="title-zh">蝴蝶</span><br>
         <span class="title-zh">布禮</span>
     </li>
-    <li>Wang Wen-hsing <span class="person-zh">王文興</span></li>
+    <li>Wang Wen-hsing <span class="person-zh">王文興</span><br><span class="title-zh">家變</span></li>
     <li>Wang Xin <span class="person-zh">王欣</span></li>
     <li>Wang Zengqi <span class="person-zh">汪曾褀</span></li>
     <li>Wu Cheng'en <span class="person-zh">吳承恩</span><br><span class="title-zh">西遊記</span></li>
@@ -156,7 +156,7 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
 <ul class="list">
     <li>Yan Lianke <span class="person-zh">閻連科</span><br><span class="title-zh">丁莊夢</span><br><span class="title-zh">日熄</span>
     </li>
-    <li>Yao Emei <span class="person-zh">姚鄂梅</span></li>
+    <li>Yao Emei <span class="person-zh">姚鄂梅</span><br><span class="title-zh">家庭生活</span></li>
     <li>
         Yi Xianfeng <span class="person-zh">伊險峰</span> & Yang Ying <span class="person-zh">楊櫻</span><br><span
             class="title-zh">張醫生與王醫生</span>
@@ -168,9 +168,10 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
 
 ### Z
 <ul class="list">
-    <li>Zhai Yongming <span class="person-zh">翟永明</span></li>
+    <li>Zhai Yongming <span class="person-zh">翟永明</span><br><span class="title-zh">天賦如此</span></li>
     <li>Zhang Boshu <span class="person-zh">張博樹</span><br><span class="title-zh">經濟行爲與人</span>
     </li>
+<li>Zhou Weihui <span class="person-zh">周衛慧</span><br><span class="title-zh">上海寶貝</span></li>
     <li>Zong Fengming <span class="person-zh">宗鳳鳴</span><br><span class="title-zh">趙紫陽：軟禁中的談話</span></li>
 </ul>
 </section>

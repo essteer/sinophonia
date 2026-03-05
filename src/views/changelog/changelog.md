@@ -8,7 +8,7 @@ The full <a href="https://github.com/essteer/sinophonia" class="external-url">co
 ## March 2026
 
 - Added Voice entry for <a href="/voice/#CyberPink" class="internal-url">CyberPink</a>.
-- Made edits to existing Voice entries, and removed Simon Shen's podcast which appears to no longer be publicly available.
+- Edited other Voice entries, and removed Simon Shen's podcast which appears to no longer be publicly available.
 - Expanded the list of works in the <a href="/backlog" class="internal-url">backlog</a> section.
 
 ## February 2026
