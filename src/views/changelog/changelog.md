@@ -7,6 +7,7 @@ The full <a href="https://github.com/essteer/sinophonia" class="external-url">co
 
 ## March 2026
 
+- Added Ink entry for <a href="/ink/#QinHui" class="internal-url">Qin Hui</a>.
 - Added Voice entry for <a href="/voice/#CyberPink" class="internal-url">CyberPink</a>.
 - Edited other Voice entries, and removed Simon Shen's podcast which appears to no longer be publicly available.
 - Expanded the list of works in the <a href="/backlog" class="internal-url">backlog</a> section.
