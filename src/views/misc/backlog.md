@@ -28,7 +28,7 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
     </li>
     <li>Chen Rou-Jin <span class="person-zh">陳柔縉</span><br><span class="title-zh">宮前町九十番地</span>
     </li>
-    <li>Chen Ruoxi <span class="person-zh">陳若曦</span></li>
+    <li>Chen Ruoxi <span class="person-zh">陳若曦</span><br><span class="title-zh">尹縣長</span></li>
     <li>Chen Yingzhen <span class="person-zh">陳映真</span><br><span class="title-zh">將軍族</span>
     </li>
     <li>Chun Sue <span class="person-zh">春樹</span><br><span class="title-zh">北京娃娃</span>
@@ -55,6 +55,7 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
 
 ### J
 <ul class="list">
+<li>Jia Pingwa <span class="person-zh">賈平凹</span><br><span class="title-zh">廢都</span><br><span class="title-zh">秦腔</span></li>
     <li>Jiang Zilong <span class="person-zh">蔣子龍</span><br><span class="title-zh">農民帝國</span>
     </li>
 </ul>
@@ -62,6 +63,8 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
 ### L
 <ul class="list">
     <li>Lanling Xiaoxiao Sheng <span class="person-zh">蘭陵笑笑生</span><br><span class="title-zh">金瓶梅</span></li>
+    <li>Li Shuo <span class="person-zh">李碩</span><br><span class="title-zh">翦商</span></li>
+    <li>Lilian Lee <span class="person-zh">李碧華</span><br><span class="title-zh">霸王別姬</span></li>
     <li>Liu Yichang <span class="person-zh">劉以鬯</span><br><span class="title-zh">對倒</span>
     </li>
     <li>Liu Zhenyun <span class="person-zh">劉震雲</span><br><span class="title-zh">一地鷄毛</span>
@@ -74,13 +77,19 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
     <li>Ma Boyong <span class="person-zh">馬伯庸</span><br><span class="title-zh">寂靜之城</span><br>
         <span class="title-zh">長安的荔枝</span>
     </li>
+    <li>Ma Jian <span class="person-zh">馬建</span><br><span class="title-zh">亮出你的舌苔或空空蕩蕩</span></li>
     <li>Mang Ke <span class="person-zh">芒克</span><br><span class="title-zh">陽光中的向日葵</span>
     </li>
     <li>Mao Haijian <span class="person-zh">茅海建</span><br><span class="title-zh">天朝的崩潰</span>
     </li>
-    <li>Mo Yan <span class="person-zh">莫言</span><br><span class="title-zh">紅高粱家族</span>
+    <li>Mo Yan <span class="person-zh">莫言</span><br><span class="title-zh">紅高粱家族</span><br><span class="title-zh">豐乳肥臀</span><br><span class="title-zh">酒國</span>
     </li>
-    <li>Murong Xuecun <span class="person-zh">慕容雪村</span></li>
+    <li>Murong Xuecun <span class="person-zh">慕容雪村</span><br><span class="title-zh">成都，今夜請將我遺忘</span></li>
+</ul>
+
+### N
+<ul class="list">
+<li>Ni Kuang <span class="person-zh">倪匡</span></li>
 </ul>
 
 ### O
@@ -94,6 +103,12 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
     </li>
     <li>Ping Lu <span class="person-zh">平路</span><br><span class="title-zh">黑水</span>
     </li>
+</ul>
+
+### Q
+<ul class="list">
+<li>Qian Gang <span class="person-zh">錢鋼</span><br><span class="title-zh">唐山大地震</span></li>
+<li>Qin Hui <span class="person-zh">秦暉</span><br><span class="title-zh">傳統十論</span></li>
 </ul>
 
 ### R
@@ -120,27 +135,28 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
     <li>Wang Meng <span class="person-zh">王蒙</span><br><span class="title-zh">蝴蝶</span><br>
         <span class="title-zh">布禮</span>
     </li>
-    <li>Wang Wen-hsing <span class="person-zh">王文興</span></li>
+    <li>Wang Wen-hsing <span class="person-zh">王文興</span><br><span class="title-zh">家變</span></li>
     <li>Wang Xin <span class="person-zh">王欣</span></li>
     <li>Wang Zengqi <span class="person-zh">汪曾褀</span></li>
     <li>Wu Cheng'en <span class="person-zh">吳承恩</span><br><span class="title-zh">西遊記</span></li>
     <li>Wu Jingzi <span class="person-zh">吳敬梓</span><br><span class="title-zh">儒林外史</span></li>
+<li>Wu Ming-Yi <span class="person-zh">吳明益</span><br><span class="title-zh">複眼人</span></li>
 </ul>
 
 ### X
 <ul class="list">
-    <li>Xi Xi <span class="person-zh">西西</span></li>
+    <li>Xi Xi <span class="person-zh">西西</span><br><span class="title-zh">哀悼乳房</span></li>
     <li>Xia Tsi-an <span class="person-zh">夏濟安</span></li>
     <li>Xu Jilin <span class="person-zh">許記霖</span><br><span class="title-zh">何種文明？中國崛起的再思考</span>
     </li>
-    <li>Xu Zhangrun <span class="person-zh">許章潤</span><br><span class="title-zh">國家理性與優良政體</span></li>
+    <li>Xu Zhangrun <span class="person-zh">許章潤</span><br><span class="title-zh">國家理性與優良政體</span><br><span class="title-zh">戊戌六章</span><br><span class="title-zh">庚子十箚</span></li>
 </ul>
 
 ### Y
 <ul class="list">
-    <li>Yan Lianke <span class="person-zh">閻連科</span><br><span class="title-zh">日熄</span>
+    <li>Yan Lianke <span class="person-zh">閻連科</span><br><span class="title-zh">丁莊夢</span><br><span class="title-zh">日熄</span>
     </li>
-    <li>Yao Emei <span class="person-zh">姚鄂梅</span></li>
+    <li>Yao Emei <span class="person-zh">姚鄂梅</span><br><span class="title-zh">家庭生活</span></li>
     <li>
         Yi Xianfeng <span class="person-zh">伊險峰</span> & Yang Ying <span class="person-zh">楊櫻</span><br><span
             class="title-zh">張醫生與王醫生</span>
@@ -152,9 +168,11 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
 
 ### Z
 <ul class="list">
-    <li>Zhai Yongming <span class="person-zh">翟永明</span></li>
+    <li>Zhai Yongming <span class="person-zh">翟永明</span><br><span class="title-zh">天賦如此</span></li>
     <li>Zhang Boshu <span class="person-zh">張博樹</span><br><span class="title-zh">經濟行爲與人</span>
     </li>
+<li>Zhou Weihui <span class="person-zh">周衛慧</span><br><span class="title-zh">上海寶貝</span></li>
+    <li>Zong Fengming <span class="person-zh">宗鳳鳴</span><br><span class="title-zh">趙紫陽：軟禁中的談話</span></li>
 </ul>
 </section>
 </article>

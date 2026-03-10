@@ -47,6 +47,7 @@ A list of external URLs referenced throughout the site.
 | INK | YouTube - 臺灣現代主義小説 06. 白先勇＜遊園驚夢＞（一） |  https://www.youtube.com/watch?v=mpxSWqRcepc&list=PLCX-BLZ1hDpBj5-_xVy08yCRlnS1h379-&index=6 |
 | INK | YouTube - 臺灣現代主義小説 07. 白先勇＜遊園驚夢＞（二） | https://www.youtube.com/watch?v=mpxSWqRcepc&list=PLCX-BLZ1hDpBj5-_xVy08yCRlnS1h379-&index=7 |
 | VOICE | Bumingbai podcast | https://www.bumingbai.net/ |
+| VOICE | CyberPink podcast | https://cyberpinkfm.xyz/ |
 | VOICE | Chiang Hsun's Mei De Chen Si podcast | https://open.firstory.me/user/cktxxrlw27ioo0898okcvd43b |
 | VOICE | Duke University Libraries - The Memory Project | https://idn.duke.edu/ark:/87924/r4qb9xm34 |
 | VOICE | Frank Delaney's Re-Joyce podcast | https://blog.frankdelaney.com/re-joyce/ |
