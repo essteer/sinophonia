@@ -108,7 +108,7 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
 ### Q
 <ul class="list">
 <li>Qian Gang <span class="person-zh">錢鋼</span><br><span class="title-zh">唐山大地震</span></li>
-<li>Qin Hui <span class="person-zh">秦暉</span><br><span class="title-zh">傳統十論</span><br><span class="title-zh">走出帝制：從晚清到民國的歷史回望</span></li>
+<li>Qin Hui <span class="person-zh">秦暉</span><br><span class="title-zh">傳統十論</span></li>
 </ul>
 
 ### R
