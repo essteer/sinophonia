@@ -12,12 +12,6 @@ The classic Chinese novels pre-date the core focus of this site on contemporary 
 
 <section class="wide-top-margin">
 
-### A
-<ul class="list">
-    <li>Ai Weiwei <span class="person-zh">艾未未</span><br><span class="title-zh">千年悲歡</span>
-    </li>
-</ul>
-
 ### C
 <ul class="list">
     <li>Cao Xueqin <span class="person-zh">曹雪芹</span><br><span class="title-zh">紅樓夢</span>
